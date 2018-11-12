@@ -13,6 +13,7 @@
     width:100%;
     margin-bottom:8px;
     page-break-inside: avoid;
+    margin-left:2px
 }
 
 .section-content {
